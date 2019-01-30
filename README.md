@@ -9,7 +9,7 @@ Word2Vec analysis - Vectors for each word are obtained from Google's pre trained
 Model : A convolutional neural network is built using 1-D convolution layers, 1D Maxpooling Layers and multilayer perceptrons.
 
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param    
 =================================================================
 embedding_2 (Embedding)      (None, 250, 300)          6554400   
 _________________________________________________________________
